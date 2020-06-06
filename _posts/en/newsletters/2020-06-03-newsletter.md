@@ -299,5 +299,5 @@ their work hours to contribute to Optech.
 [revault xs]: https://diyhpl.us/wiki/transcripts/london-bitcoin-devs/2020-05-26-kevin-loaec-antoine-poinsot-revault/
 [london vid]: https://www.youtube.com/watch?v=34jMGiCAmQM
 [revault vid]: https://www.youtube.com/watch?v=7CE4aiFxh10
-[common wallet ownership assumption]: https://en.bitcoin.it/wiki/Common-input-ownership_heuristic
+[common input ownership assumption]: https://en.bitcoin.it/wiki/Common-input-ownership_heuristic
 [news98 bitcoin core 18877]: https://bitcoinops.org/en/newsletters/2020/05/20/#bitcoin-core-18877
